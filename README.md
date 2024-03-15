@@ -1,6 +1,8 @@
 # billing-project
 <h1>Login Page</h1>
-![image](https://github.com/Sanket3212/billing-project/assets/114338403/fa6a41ba-4c51-4a09-ae15-7a4ebca808d2)
+
+![image](https://github.com/Sanket3212/billing-project/assets/114338403/43d8d727-b12d-47cc-b7f8-0af470e38ccb)
+
 
 <br>
 <h2>Home Page</h2>
@@ -9,4 +11,6 @@
 
 <br>
 <h2>Interface</h2>
-![image](https://github.com/Sanket3212/billing-project/assets/114338403/d84ca1e5-2fc5-4ad1-8361-84ec8c19266e)
+
+![image](https://github.com/Sanket3212/billing-project/assets/114338403/a365b1d5-2156-4c12-a01f-80f135bed457)
+
